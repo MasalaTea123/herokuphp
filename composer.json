@@ -1,0 +1,14 @@
+{
+    "name": "vendor_name/heroku",
+    "description": "description",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+      {
+        "name": "Daw Rong",
+        "email": "20014009@myrp.edu.sg"
+      }
+    ],
+    "require": {
+    }
+  }
